@@ -60,6 +60,8 @@
 
 Upon starting the server, navigate to the initial login page:
 
+- **Access with this link** *http://0.0.0.0:8000/*
+
 - **Login Page**: [login.html](https://github.com/jacksen-ng/login_fastapi/blob/main/app/templates/login.html)
 
 You should see the following interface:
