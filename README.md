@@ -45,3 +45,14 @@
     ```bash
     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
     ```
+
+
+## Launching the Application
+
+Upon starting the server, navigate to the initial login page:
+
+- **Login Page**: [login.html](https://github.com/jacksen-ng/login_fastapi/blob/main/app/templates/login.html)
+
+You should see the following interface:
+
+![Login Page](https://github.com/jacksen-ng/login_fastapi/blob/main/app/image/loginimage.png)
