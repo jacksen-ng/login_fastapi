@@ -41,7 +41,16 @@
     pip install -r requirements.txt
     ```
 
-4. Finally, start the FastAPI server:
+4. After installed, please run the following command:
+    ```bash
+    cd db
+    ```
+
+    ```bash
+    python database.py
+    ```
+
+5. Finally, start the FastAPI server:
     ```bash
     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
     ```
@@ -56,3 +65,9 @@ Upon starting the server, navigate to the initial login page:
 You should see the following interface:
 
 ![Login Page](https://github.com/jacksen-ng/login_fastapi/blob/main/app/image/loginimage.png)
+
+- I already create the user, you can use the following user to login:
+
+**Username:** *admin*
+
+**Password:** *admin*
