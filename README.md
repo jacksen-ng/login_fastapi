@@ -1,4 +1,4 @@
-# Function of Login wiht FastAPI
+# Function of Login with FastAPI
 
 ## Index
 
